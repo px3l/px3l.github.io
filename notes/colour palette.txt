@@ -1,0 +1,8 @@
+h1, timeline fill colour: #78a8b2
+timeline fill cover on hover: #3E8A9A
+
+
+white: #ffffff
+light grey: #CECECE
+mid grey: #8A8A8A
+dark grey: #464646
