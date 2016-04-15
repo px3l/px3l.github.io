@@ -68,6 +68,13 @@ a:visited {
 .info {
   display: inline-block;
 }
+.links {
+  cursor: pointer;
+  float: right;
+  margin-right: 0;
+  padding: 10px 15px;
+  white-space: nowrap;
+}
 .timeline-container {
   border-left: 4px solid #78a8b2;
   margin: 20px auto;
