@@ -242,10 +242,11 @@ a:visited {
   margin-bottom: 40px;
 }
 .timeline-event-content p {
+  color: #8A8A8A;
   clear: left;
   float: left;
   font-size: 2em;
-  font-weight: 100;
+  font-weight: 105;
   line-height: 1.2em;
   margin: 6px 0 10px;
   width: 500px;
