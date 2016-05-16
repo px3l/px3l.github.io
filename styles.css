@@ -285,11 +285,10 @@ a:visited {
   width: 300px;
 }
 .timeline-event-content .media img {
-  border: 2px solid #464646;
-  border-radius: 100px;
+  border: 1px solid #78a8b2;
+  border-radius: 0px;
   height: 200px;
   margin: 0;
-  width: 200px;
 }
 .timeline-event-content .media p {
   clear: both;
