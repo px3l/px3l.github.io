@@ -289,6 +289,14 @@ a:visited {
   border-radius: 0px;
   height: 200px;
   margin: 0;
+  -moz-transition: all 1s;
+  -ms-transition: all 1s;
+  -o-transition: all 1s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+.timeline-event-content .media img .expanded {
+  max-width: 2000px;
 }
 .timeline-event-content .media p {
   clear: both;
