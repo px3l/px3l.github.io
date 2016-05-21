@@ -222,11 +222,11 @@ a:visited {
   width: 100%;
 }
 .timeline-series dd h3 {
-  color: #FFFFFF;
+  color: #8A8A8A;
   clear: both;
   float: left;
-  font-size: 1.5em;
-  margin: 0;
+  font-size: 2em;
+  margin: 10;
   white-space: nowrap;
 }
 .tick {
@@ -306,3 +306,4 @@ a:visited {
 .timeline-event-content .media p a {
   text-transform: lowercase;
 }
+
