@@ -1,3 +1,3 @@
-## Curriculum Vitae in JavaScript
+## px3l
 
-This is a simple timeline based CV in JavaScript, html and CSS.
+Basic timeline based CV in JS
