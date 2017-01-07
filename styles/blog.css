@@ -78,7 +78,7 @@ a:visited {
 .timeline-container {
   border-left: 4px solid #349CDA;
   margin: 20px auto;
-  width: 900px;
+  width: 90%;
 }
 .timeline-container-tick {
   background: #349CDA;
@@ -138,7 +138,7 @@ a:visited {
   clear: left;
   float: left;
   margin: 0 0 12px;
-  width: 900px;
+  width: 100%;
 }
 .timeline-wrapper .timeline-time::before {
   border-top: 4px solid #349CDA;
@@ -179,7 +179,7 @@ a:visited {
   margin: 0 12px 0 0;
   padding: 4px 4px 4px 0;
   position: relative;
-  width: 880px;
+  width: 85%;
 }
 .timeline-series dt::before {
   border-top: 3px solid #349CDA;
@@ -256,7 +256,7 @@ a:visited {
   font-weight: 105;
   line-height: 1.2em;
   margin: 6px 0 10px;
-  width: 80%;
+  width: 100%;
 }
 .timeline-event-content h4 {
   clear: left;
@@ -281,8 +281,8 @@ a:visited {
 }
 .timeline-event-content .media {
   float: right;
-  padding: 0 0 12px;
-  width: 300px;
+  padding: 12px 0 0 ;
+  width: 30%;
 }
 .timeline-event-content .media img {
   border: 1px solid #349CDA;
