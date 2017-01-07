@@ -3,7 +3,7 @@
 /*CSS FOR PAGE*/
 
 body { 
-  background: linear-gradient(to bottom right, #F3F3F1, #a9bfb9) no-repeat bottom right fixed;
+  background: linear-gradient(to bottom right, #F3F3F1, #bccdd0) no-repeat bottom right fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -40,7 +40,7 @@ a:visited {
 /*CSS FOR CLASSES*/
 
 .container {
-  width: 940px;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
@@ -78,7 +78,7 @@ a:visited {
 .timeline-container {
   border-left: 4px solid #78a8b2;
   margin: 20px auto;
-  width: 900px;
+  width: 90%;
 }
 .timeline-container-tick {
   background: #78a8b2;
@@ -138,7 +138,7 @@ a:visited {
   clear: left;
   float: left;
   margin: 0 0 12px;
-  width: 900px;
+  width: 100%;
 }
 .timeline-wrapper .timeline-time::before {
   border-top: 4px solid #78a8b2;
@@ -179,7 +179,7 @@ a:visited {
   margin: 0 12px 0 0;
   padding: 4px 4px 4px 0;
   position: relative;
-  width: 880px;
+  width: 85%;
 }
 .timeline-series dt::before {
   border-top: 3px solid #78a8b2;
@@ -219,7 +219,7 @@ a:visited {
 }
 .timeline-series dd {
   padding-left: 24px;
-  width: 100%;
+  width: 50%;
 }
 .timeline-series dd h3 {
   color: #FFFFFF;
@@ -256,7 +256,7 @@ a:visited {
   font-weight: 105;
   line-height: 1.2em;
   margin: 6px 0 10px;
-  width: 500px;
+  width: 100%;
 }
 .timeline-event-content h4 {
   clear: left;
@@ -273,7 +273,7 @@ a:visited {
   line-height: 1.2em;
   margin-left: 0;
   padding: 0 30px;
-  width: 400px;
+  width: 80%;
 }
 .timeline-event-content blockquote .attribution {
   font-size: 0.7em;
@@ -282,7 +282,7 @@ a:visited {
 .timeline-event-content .media {
   float: right;
   padding: 0 0 12px;
-  width: 300px;
+  width: 30%;
 }
 .timeline-event-content .media img {
   border: 1px solid #78a8b2;
