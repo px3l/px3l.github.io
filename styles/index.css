@@ -219,7 +219,7 @@ a:visited {
 }
 .timeline-series dd {
   padding-left: 24px;
-  width: 50%;
+  width: 100%;
 }
 .timeline-series dd h3 {
   color: #FFFFFF;
