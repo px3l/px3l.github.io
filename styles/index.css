@@ -71,9 +71,7 @@ a:visited {
 }
 .links {
   cursor: pointer;
-  float: right;
-  margin-right: 0;
-  padding: 10px 15px;
+  padding-left: 50px;
   white-space: nowrap;
 }
 .timeline-container {

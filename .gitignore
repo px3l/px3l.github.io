@@ -6,16 +6,5 @@
 Icon?
 ehthumbs.db
 Thumbs.db
-.vagrant
-dist
-pids
-logs
-results
 images
-npm-debug.log*
-node_modules
-notes
 temp
-private
-yarn.lock
-.data
