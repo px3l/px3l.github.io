@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://px3l.co/timeline/computerright/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/jenca/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/kubecon/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/aechack/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/bimscript/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/tech/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/wia/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/ftd/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/eyesys/</loc>
+    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://px3l.co/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://px3l.co/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/timeline/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://px3l.co/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://px3l.co/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://px3l.co/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://px3l.co/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://px3l.co/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://px3l.co/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://px3l.co/tags/"
+                />
+  </url>
+  
+</urlset>
