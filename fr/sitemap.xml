@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://px3l.co/fr/categories/</loc>
+    <loc>http://px3l.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.co/categories/"
+                href="http://px3l.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.co/fr/categories/"
+                href="http://px3l.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.co/fr/</loc>
+    <loc>http://px3l.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.co/"
+                href="http://px3l.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.co/fr/"
+                href="http://px3l.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.co/fr/series/</loc>
+    <loc>http://px3l.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.co/series/"
+                href="http://px3l.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.co/fr/series/"
+                href="http://px3l.com/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.co/fr/tags/</loc>
+    <loc>http://px3l.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.co/tags/"
+                href="http://px3l.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.co/fr/tags/"
+                href="http://px3l.com/fr/tags/"
                 />
   </url>
   
