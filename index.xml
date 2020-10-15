@@ -40,11 +40,29 @@
     
     <item>
       <title>Speaker</title>
+      <link>https://px3l.com/timeline/tech/</link>
+      <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://px3l.com/timeline/tech/</guid>
+      <description>TE&amp;amp;CH Conference 2015 TE&amp;amp;CH was a technology and education conference aimed at fringe research projects gaining traction in the UK. After the success of the presentation at AEChack, BIMscripts investors invited me to give the same presentation at TE&amp;amp;CH conference. I presented it alongside the latest demo of our system.</description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
       <link>https://px3l.com/timeline/aechack/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://px3l.com/timeline/aechack/</guid>
-      <description>AEChack Conference 2015 AEChack is a worldwide recognised hackathon for the AEC industries. I gave a presentation titled Biomimetic Driven Development, describing the lean, agile strategy we employed as a company.</description>
+      <description>AEChack Conference 2015 AEChack is a worldwide recognised hackathon for the AEC industries. BIMscript was invited to attend to run one of the groups, and I gave a presentation describing the lean, agile strategy we employed as a company in developing software for the construction industry.</description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
+      <link>https://px3l.com/timeline/wia/</link>
+      <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://px3l.com/timeline/wia/</guid>
+      <description>World Information Architecture UX Conference 2015 I was invited to speak at the World Information Architecture UX Conference in Bristol. I presented how to design web applications for people in the construction industry, specifically how to design an application which can be used by labourers on site and in the office.</description>
     </item>
     
     <item>
@@ -53,26 +71,9 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://px3l.com/timeline/bimscript/</guid>
-      <description>BIMscript Ltd BIMscript was a technology and BIM consultancy for the Architecture, Engineering and Construction industries. We provided expert advice and implementation on cutting edge technologies including virtual reality, 3d printing, 3d scanning and modelling, BIM implementation and strategy and web technologies. Our clients included major construction and engineering firms VolkerFitzpatrick and Hoare Lea, and other clients such as FreestyleXtreme Ltd and the Foundation for the Common Good.
-During the time as CTO for BIMscript, we completed a proof of concept for a large scale web platform to revolutionise the method of project delivery of our major client, VolkerFitzpatrick.</description>
-    </item>
-    
-    <item>
-      <title>Speaker</title>
-      <link>https://px3l.com/timeline/tech/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://px3l.com/timeline/tech/</guid>
-      <description>TE&amp;amp;CH Conference 2015 TE&amp;amp;CH is a technology and education conference aimed at fringe research projects gaining traction in the UK. I presented BIMscript / Jenca&amp;rsquo;s development method and demo.</description>
-    </item>
-    
-    <item>
-      <title>Speaker</title>
-      <link>https://px3l.com/timeline/wia/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://px3l.com/timeline/wia/</guid>
-      <description>World Information Architecture UX Conference 2015 I was invited to speak at the World Information Architecture UX Conference in Bristol. I presented how to design web applications for people in the construction industry, specifically how to design an application which can be used by labourers on site and in the office.</description>
+      <description>BIMscript Ltd My first company, BIMscript Ltd was a technology and BIM consultancy for the Architecture, Engineering and Construction industries.
+I took the successes of the society I ran at university and moved it into the professional world. BIMscript provided expert advice and implementation on emerging technologies including virtual reality, 3D printing, 3D laser scanning, photogrammetry and modelling, BIM implementation and strategy, and cloud technologies.
+Our clients included major construction and engineering firms VolkerFitzpatrick and Hoare Lea, among other clients such as FreestyleXtreme Ltd and the Foundation for the Common Good.</description>
     </item>
     
     <item>
@@ -81,7 +82,7 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://px3l.com/timeline/ftd/</guid>
-      <description>Future Technology and Design FT+D was a society founded whilst studying Architecture and Planning as a method to encourage multi-discipline discussion around architecture. We completed one major project to build a 3D scanner from scratch. This included designing and making circuit boards, 3D printing components and learning the software to manipulate point clouds/meshes taken from the scans.</description>
+      <description>Future Technology and Design Whilst studying in the final year of my degree, a classmate and I observed that there was very minimal, if any, interaction between disciplines at university. We were studying Architecture and planning, yet we were not once advised to seek any other input to the subject than from the lecturers, classmates and industry professionals. We both thought, given the ongoing digitalisation of construction, and the future cities initiatives, that students and lecturers involved in other technical fields may have vital input into how Architecture can be done better.</description>
     </item>
     
     <item>
@@ -90,7 +91,9 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
       <guid>https://px3l.com/timeline/eyesys/</guid>
-      <description>Eye-Systems Ltd I was employed as a computer technician and advisor. My roles included designing and building PC systems, repairing customer PCs, helping customers on the telephone and in store, designing and installing networks in business premises and installing, repairing and maintaining Operating Systems and software.</description>
+      <description>Eye-Systems Ltd My first professional experience with computer systems and IT was from 2004 to 2006 when I was employed as a computer technician and advisor. My roles included a mixture of customer service and engineering.
+I was given responsibility for designing and building PC systems, repairing customer PCs, designing and installing networks on site in business premises and installing and maintaining Operating Systems and software.
+Customer facing duties included helping customers on the telephone and in store.</description>
     </item>
     
   </channel>
