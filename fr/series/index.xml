@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Curriculum Vitae</title>
-    <link>http://px3l.com/fr/series/</link>
+    <link>https://px3l.com/fr/series/</link>
     <description>Recent content in Series on Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://px3l.com/fr/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://px3l.com/fr/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

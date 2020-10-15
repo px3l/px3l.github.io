@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://px3l.com/fr/categories/</loc>
+    <loc>https://px3l.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.com/categories/"
+                href="https://px3l.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.com/fr/categories/"
+                href="https://px3l.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.com/fr/</loc>
+    <loc>https://px3l.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.com/"
+                href="https://px3l.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.com/fr/"
+                href="https://px3l.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.com/fr/series/</loc>
+    <loc>https://px3l.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.com/series/"
+                href="https://px3l.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.com/fr/series/"
+                href="https://px3l.com/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://px3l.com/fr/tags/</loc>
+    <loc>https://px3l.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://px3l.com/tags/"
+                href="https://px3l.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://px3l.com/fr/tags/"
+                href="https://px3l.com/fr/tags/"
                 />
   </url>
   

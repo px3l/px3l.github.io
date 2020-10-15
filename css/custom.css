@@ -6,6 +6,10 @@
     max-width: 800px;
 }
 
-.container {
+.index-content {
 	text-align: left;
+}
+
+.timeline-item {
+	margin-bottom: -30px;
 }

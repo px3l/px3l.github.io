@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Timelines on Curriculum Vitae</title>
-        <link>http://px3l.com/timeline/</link>
+        <link>https://px3l.com/timeline/</link>
         <description>Recent content in Timelines on Curriculum Vitae</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-gb</language>
         <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://px3l.com/timeline/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://px3l.com/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Owner, Director</title>
-            <link>http://px3l.com/timeline/computerright/</link>
+            <link>https://px3l.com/timeline/computerright/</link>
             <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/computerright/</guid>
+            <guid>https://px3l.com/timeline/computerright/</guid>
             <description>Computer Right Ltd I was employed as a manager, computer expert, sales representative and engineer at Computer Right, a computer shop in Bristol registered under Bristol Office Essentials Ltd. My duty included all managerial roles in running a successful shop, alongside repairing and building Windows and Mac PCs/laptops and mobiles. I engage with clients on the telephone and in store to resolve computer related problems. Since starting in April 2016, I have cleaned, organised and streamlined the workshop established modern, agile working practices which have significantly helped with work flow and profitability.</description>
             <content type="html"><![CDATA[<h2 id="computer-right-ltd">Computer Right Ltd</h2>
 <p>I was employed as a manager, computer expert, sales representative and engineer at Computer Right, a computer shop in Bristol registered under Bristol Office Essentials Ltd. My duty included all managerial roles in running a successful shop, alongside repairing and building Windows and Mac PCs/laptops and mobiles. I engage with clients on the telephone and in store to resolve computer related problems. Since starting in April 2016, I have cleaned, organised and streamlined the workshop established modern, agile working practices which have significantly helped with work flow and profitability. I looked after spend, stock, financial recording and managine suppliers and customers. I also completely overhauled the Computer Right website, and social media accounts. During the 7 months I was employed, turnover increased over 50% from the months previous to my employment and Computer Right received a 200% increase on 4 and 5 star Google reviews, compared to the previous 4 years.</p>
@@ -23,10 +23,10 @@
         
         <item>
             <title>Co-founder, CTO</title>
-            <link>http://px3l.com/timeline/jenca/</link>
+            <link>https://px3l.com/timeline/jenca/</link>
             <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/jenca/</guid>
+            <guid>https://px3l.com/timeline/jenca/</guid>
             <description>Jenca Ltd Jenca was a Not For Profit company offering a PaaS/IaaS product on which Architecture, Engineering and Construction (AEC) web application developers can easily market and run their applications at a global scale. We are a community project that is 100% open source. Jenca has been featured in BIM+ magazine and is partnered with other cutting edge AEC web applications like the BIMserver, 3D Repo and Duraark.</description>
             <content type="html"><![CDATA[<h2 id="jenca-ltd">Jenca Ltd</h2>
 <p>Jenca was a Not For Profit company offering a PaaS/IaaS product on which Architecture, Engineering and Construction (AEC) web application developers can easily market and run their applications at a global scale. We are a community project that is 100% open source. Jenca has been featured in <a href="http://www.bimplus.co.uk/news/google-ins4pires-n7ew-bim-app-platform-j7enca/" target="blank">BIM+ magazine</a> and is partnered with other cutting edge AEC web applications like the <a href="http://bimserver.org/" target="blank">BIMserver</a>, <a href="http://3drepo.org/" target="blank">3D Repo</a> and <a href="http://duraark.eu/" target="blank">Duraark</a>.</p></p>
@@ -35,10 +35,10 @@
         
         <item>
             <title>Speaker</title>
-            <link>http://px3l.com/timeline/kubecon/</link>
+            <link>https://px3l.com/timeline/kubecon/</link>
             <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/kubecon/</guid>
+            <guid>https://px3l.com/timeline/kubecon/</guid>
             <description>KubeCon Europe Conference 2016 KubeCon is the major Google Kubernetes conference in the world. I was invited to speak by the organisers based on the work they had seen on GitHub. I presented the story about how Jenca applied the Google Kubernetes technology to a new vertical industry: AEC</description>
             <content type="html"><![CDATA[<h2 id="kubecon-europe-conference-2016">KubeCon Europe Conference 2016</h2>
 <p><a href="https://kubecon.io/" target="blank">KubeCon</a> is the major Google Kubernetes conference in the world. I was invited to speak by the organisers based on the work they had seen on GitHub. I presented the story about how Jenca applied the Google Kubernetes technology to a new vertical industry: AEC</p>
@@ -47,10 +47,10 @@
         
         <item>
             <title>Speaker</title>
-            <link>http://px3l.com/timeline/aechack/</link>
+            <link>https://px3l.com/timeline/aechack/</link>
             <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/aechack/</guid>
+            <guid>https://px3l.com/timeline/aechack/</guid>
             <description>AEChack Conference 2015 AEChack is a worldwide recognised hackathon for the AEC industries. I gave a presentation titled Biomimetic Driven Development, describing the lean, agile strategy we employed as a company.</description>
             <content type="html"><![CDATA[<h2 id="aechack-conference-2015">AEChack Conference 2015</h2>
 <p><a href="http://aechack.nl/" target="blank">AEChack</a> is a worldwide recognised hackathon for the AEC industries. I gave a presentation titled Biomimetic Driven Development, describing the lean, agile strategy we employed as a company.</p>
@@ -59,10 +59,10 @@
         
         <item>
             <title>Co-founder, CTO</title>
-            <link>http://px3l.com/timeline/bimscript/</link>
+            <link>https://px3l.com/timeline/bimscript/</link>
             <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/bimscript/</guid>
+            <guid>https://px3l.com/timeline/bimscript/</guid>
             <description>BIMscript Ltd BIMscript was a technology and BIM consultancy for the Architecture, Engineering and Construction industries. We provided expert advice and implementation on cutting edge technologies including virtual reality, 3d printing, 3d scanning and modelling, BIM implementation and strategy and web technologies. Our clients included major construction and engineering firms VolkerFitzpatrick and Hoare Lea, and other clients such as FreestyleXtreme Ltd and the Foundation for the Common Good.
 During the time as CTO for BIMscript, we completed a proof of concept for a large scale web platform to revolutionise the method of project delivery of our major client, VolkerFitzpatrick.</description>
             <content type="html"><![CDATA[<h2 id="bimscript-ltd">BIMscript Ltd</h2>
@@ -74,10 +74,10 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
         
         <item>
             <title>Speaker</title>
-            <link>http://px3l.com/timeline/tech/</link>
+            <link>https://px3l.com/timeline/tech/</link>
             <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/tech/</guid>
+            <guid>https://px3l.com/timeline/tech/</guid>
             <description>TE&amp;amp;CH Conference 2015 TE&amp;amp;CH is a technology and education conference aimed at fringe research projects gaining traction in the UK. I presented BIMscript / Jenca&amp;rsquo;s development method and demo.</description>
             <content type="html"><![CDATA[<h2 id="tech-conference-2015">TE&amp;CH Conference 2015</h2>
 <p><a href="http://te-ch.uk/" target="blank">TE&amp;CH</a> is a technology and education conference aimed at fringe research projects gaining traction in the UK. I presented BIMscript / Jenca&rsquo;s development method and demo.</p>
@@ -86,10 +86,10 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
         
         <item>
             <title>Speaker</title>
-            <link>http://px3l.com/timeline/wia/</link>
+            <link>https://px3l.com/timeline/wia/</link>
             <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/wia/</guid>
+            <guid>https://px3l.com/timeline/wia/</guid>
             <description>World Information Architecture UX Conference 2015 I was invited to speak at the World Information Architecture UX Conference in Bristol. I presented how to design web applications for people in the construction industry, specifically how to design an application which can be used by labourers on site and in the office.</description>
             <content type="html"><![CDATA[<h2 id="world-information-architecture-ux-conference-2015">World Information Architecture UX Conference 2015</h2>
 <p>I was invited to speak at the <a href="http://2015.worldiaday.org/" target="blank">World Information Architecture</a> UX Conference in Bristol. I presented how to design web applications for people in the construction industry, specifically how to design an application which can be used by labourers on site and in the office.</p>
@@ -98,10 +98,10 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
         
         <item>
             <title>Co-founder, Vice President</title>
-            <link>http://px3l.com/timeline/ftd/</link>
+            <link>https://px3l.com/timeline/ftd/</link>
             <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/ftd/</guid>
+            <guid>https://px3l.com/timeline/ftd/</guid>
             <description>Future Technology and Design FT+D was a society founded whilst studying Architecture and Planning as a method to encourage multi-discipline discussion around architecture. We completed one major project to build a 3D scanner from scratch. This included designing and making circuit boards, 3D printing components and learning the software to manipulate point clouds/meshes taken from the scans.</description>
             <content type="html"><![CDATA[<h2 id="future-technology-and-design">Future Technology and Design</h2>
 <p>FT+D was a society founded whilst studying Architecture and Planning as a method to encourage multi-discipline discussion around architecture. We completed one major project to build a 3D scanner from scratch. This included designing and making circuit boards, 3D printing components and learning the software to manipulate point clouds/meshes taken from the scans.</p>
@@ -110,10 +110,10 @@ During the time as CTO for BIMscript, we completed a proof of concept for a larg
         
         <item>
             <title>Computer Technician</title>
-            <link>http://px3l.com/timeline/eyesys/</link>
+            <link>https://px3l.com/timeline/eyesys/</link>
             <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
             
-            <guid>http://px3l.com/timeline/eyesys/</guid>
+            <guid>https://px3l.com/timeline/eyesys/</guid>
             <description>Eye-Systems Ltd I was employed as a computer technician and advisor. My roles included designing and building PC systems, repairing customer PCs, helping customers on the telephone and in store, designing and installing networks in business premises and installing, repairing and maintaining Operating Systems and software.</description>
             <content type="html"><![CDATA[<h2 id="eye-systems-ltd">Eye-Systems Ltd</h2>
 <p>I was employed as a computer technician and advisor. My roles included designing and building PC systems, repairing customer PCs, helping customers on the telephone and in store, designing and installing networks in business premises and installing, repairing and maintaining Operating Systems and software.</p>
