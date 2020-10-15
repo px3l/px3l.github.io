@@ -26,7 +26,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://px3l.com/timeline/jenca/</guid>
-      <description>Jenca Ltd Jenca was a Not For Profit company offering a PaaS/IaaS product on which Architecture, Engineering and Construction (AEC) web application developers can easily market and run their applications at a global scale. We are a community project that is 100% open source. Jenca has been featured in BIM+ magazine and is partnered with other cutting edge AEC web applications like the BIMserver, 3D Repo and Duraark.</description>
+      <description>Jenca Ltd Building on the success of BIMscript Ltds software Jenca was my attemp on a Not For Profit company offering a PaaS/IaaS product on which Architecture, Engineering and Construction (AEC) web application developers can easily market and run their applications at a global scale. We are a community project that is 100% open source. Jenca has been featured in BIM+ magazine and is partnered with other cutting edge AEC web applications like the BIMserver, 3D Repo and Duraark.</description>
     </item>
     
     <item>
@@ -86,14 +86,21 @@ Our clients included major construction and engineering firms VolkerFitzpatrick 
     </item>
     
     <item>
-      <title>Computer Technician</title>
-      <link>https://px3l.com/timeline/eyesys/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <title>2:1 BSc</title>
+      <link>https://px3l.com/timeline/uwe/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://px3l.com/timeline/eyesys/</guid>
-      <description>Eye-Systems Ltd My first professional experience with computer systems and IT was from 2004 to 2006 when I was employed as a computer technician and advisor. My roles included a mixture of customer service and engineering.
-I was given responsibility for designing and building PC systems, repairing customer PCs, designing and installing networks on site in business premises and installing and maintaining Operating Systems and software.
-Customer facing duties included helping customers on the telephone and in store.</description>
+      <guid>https://px3l.com/timeline/uwe/</guid>
+      <description>AEChack Conference 2015 </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://px3l.com/timeline/education/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://px3l.com/timeline/education/</guid>
+      <description> 10 GCSEs, A* to B, including Maths, Science, English; 4 A-Levels, A to C, in Maths and Mechanics, Physics, Art and Design and General Studies; Certificate of Higher Education in Computer Visualisation and Animation from Bournemouth University; Level 2 Accredited Trainer for McNeel Rhino3D software </description>
     </item>
     
   </channel>
