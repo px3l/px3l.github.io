@@ -1,12 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Timelines on Curriculum Vitae</title>
+        <title>Timelines on px3l</title>
         <link>https://px3l.com/timeline/</link>
-        <description>Recent content in Timelines on Curriculum Vitae</description>
+        <description>Recent content in Timelines on px3l</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-gb</language>
-        <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://px3l.com/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Product Manager</title>
+            <link>https://px3l.com/timeline/bimlauncher/</link>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://px3l.com/timeline/bimlauncher/</guid>
+            <description>BIMLauncher Ltd I was tasked with managing product development for BIMLauncher Ltd. The product is a cloud based set of integrations between software vendors APIs that allowed data to be moved from one vendor to another, essentially the ability to synchronise or migrate data between different cloud software. This was managed through a centralised hub, hosted online. I came in at an early stage, where an initial integration had been completed and a new, more complex one had to be developed.</description>
+            <content type="html"><![CDATA[<h2 id="bimlauncher-ltd">BIMLauncher Ltd</h2>
+<p>I was tasked with managing product development for BIMLauncher Ltd. The product is a cloud based set of integrations between software vendors APIs that allowed data to be moved from one vendor to another, essentially the ability to synchronise or migrate data between different cloud software. This was managed through a centralised hub, hosted online. I came in at an early stage, where an initial integration had been completed and a new, more complex one had to be developed. I played an essential role in utilising various online methods of collaboration to successfully build and deliver this new integration for the client. We had a team working remotely all over the world: our senior developer in Indonesia, the CEO in Ireland, I was in England and others in Canada, Philippines and Lebanon. Because of the time differences, we had to really plan the few meetings we could have together via video chat and so we relied on using software which everyone could input to in their own working time. I had to keep everyone on the same page, by ensuring our shared information was correct and easy for each other to understand by themselves. Alongside this, I had to help develop the integration from conceptual design to technical specifications which could be relayed to the team. The integration was delivered successfully and immediately went live on 16 projects.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Owner, Director</title>
