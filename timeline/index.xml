@@ -9,19 +9,18 @@
         <atom:link href="https://px3l.com/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Product Manager at BIMLauncher Ltd</title>
+            <title>CTO at BIMLauncher Ltd</title>
             <link>https://px3l.com/timeline/bimlauncher/</link>
             <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
             
             <guid>https://px3l.com/timeline/bimlauncher/</guid>
-            <description>BIMLauncher Ltd BIMLauncher ltd develops and runs a cloud based set of integrations between software vendors APIs that allowed data to be moved from one vendor to another, essentially the ability to synchronise or migrate data between different cloud software. This is managed through a centralised hub, hosted online.
-I came in at an early stage, where an initial integration had been completed and a new, more complex one had to be developed.</description>
+            <description>BIMLauncher Ltd BIMLauncher Ltd develops and runs integrations between cloud software. The platform offers highly configurable and customisable workflows to be built between software for construction projects which enable data synchronization and migrations.
+From the digitilastion of the AEC industries emerged a new and important concept: the Common Data Environment (CDE). Many project management solutions were developed each offering a set of tools and claiming to act as the CDE but the reality is that across a large construction project, teams of different disciplines, geographic locations and even different stages of the project lifecycle, choose their own digital tools.</description>
             <content type="html"><![CDATA[<h2 id="bimlauncher-ltd">BIMLauncher Ltd</h2>
-<p>BIMLauncher ltd develops and runs a cloud based set of integrations between software vendors APIs that allowed data to be moved from one vendor to another, essentially the ability to synchronise or migrate data between different cloud software. This is managed through a centralised hub, hosted online.</p>
-<p>I came in at an early stage, where an initial integration had been completed and a new, more complex one had to be developed. I played an essential role in utilising various online methods of collaboration to successfully build and deliver this new integration for the client.</p>
-<p>We had a team working remotely all over the world: our senior developer in Indonesia, the CEO in Ireland, I was in England and others in Canada, Philippines and Lebanon. Because of the time differences, we had to plan the few meetings we could have together via video chat and so we relied on using software which everyone could input to in their own working time.</p>
-<p>I had to keep everyone on the same page, by ensuring our shared information was correct and easy for each other to understand by themselves. Alongside this, I had to help develop the integration from conceptual design to technical specifications which could be relayed to the team. The integration was delivered successfully and immediately went live on 16 projects.</p>
-<p>Since then, my focus has been on a marketing strategy along with UX and site design.</p>
+<p>BIMLauncher Ltd develops and runs integrations between cloud software. The platform offers highly configurable and customisable workflows to be built between software for construction projects which enable data synchronization and migrations.</p>
+<p>From the digitilastion of the AEC industries emerged a new and important concept: the Common Data Environment (CDE). Many project management solutions were developed each offering a set of tools and claiming to act as the CDE but the reality is that across a large construction project, teams of different disciplines, geographic locations and even different stages of the project lifecycle, choose their own digital tools. This leaves a broken CDE as data is locked in silos and has to be manually transferred between teams chosen solution.</p>
+<p>BIMLauncher allows data to be moved from one software to another, so that tools can be used side by side (data synchronization) or a new tool introduced with ease (data migration). BIMLauncher solves the disconnect in the CDE and allows best of breed tools to be used across a whole construction project seamlessly.</p>
+<p>As CTO it is my responsibility to deliver on customer requirements and features by managing the development and operations of our software. The platform is built in modern micro-service based web technologies (primarily written in nodeJS) and runs on AWS. To successfully meet deadlines and deliver the best version of our software, a deep understanding of our system architecture, functionality and operations is required.</p>
 <p><a href="https://www.bimlauncher.com/">BIMLauncher Website</a></p>
 ]]></content>
         </item>
@@ -38,12 +37,11 @@ Though the main business was through PC custom builds, repairs and upgrades, the
             <content type="html"><![CDATA[<h2 id="strange-labs">Strange Labs</h2>
 <p>I wanted to take my favourite experiences from the technology startup world: meeting enthusiastic people and sharing ideas, and create an environment where that could happen regularly.</p>
 <p>Strange Labs was the first technology Meet up space of it&rsquo;s kind in the UK on the high street. Alongside this, Strange Labs quickly became the <a href="https://www.google.com/search?source=hp&amp;ei=T2iLXvuVHYqLlwS9varoAg&amp;q=strange+labs&amp;oq=strange+labs&amp;gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoFCAAQgwE6BAgAEAM6BAgAEApKJQgXEiEwZzEwM2c3Nmc4OWc4MWc5MGc2N2c4MWcxMDlnOTVnNzdKGQgYEhUwZzFnMWcxZzFnMWcxZzFnMWcxZzNQpAxY9BZguhhoAHAAeACAAVqIAa8GkgECMTKYAQCgAQGqAQdnd3Mtd2l6&amp;sclient=psy-ab&amp;ved=0ahUKEwi7-ZqDq9ToAhWKxYUKHb2eCi0Q4dUDCAg&amp;uact=5#lrd=0x48718e0bd868ffff:0xa1142d8202740a2a,1,,,">top rated computer shop in Bristol</a>.</p>
-<p>Though the main business was through PC custom builds, repairs and upgrades, the core idea of the space was facilitating technology discussion and discovery. I hosted a successful long running meetup series on topics from AI, crypto-currency, and emerging technology in politics. Several of the projects started in Strange Labs have continued to develop - most notably a virtual reality art gallery where the works can be bought by crypto-currencies, and a raffle based on random selections on the blockchain.</p>
+<p>Though the main business was through PC custom builds, repairs and upgrades, the core idea of the space was facilitating technology discussion and discovery. I hosted a successful long running meetup series on topics from AI, crypto-currency, and emerging technology in politics. Several of the projects started in Strange Labs have continued to develop - most notably a virtual reality art gallery where the works can be bought by crypto-currencies, a raffle based on random selections on the blockchain, and an AI based art piece highlighting the spectrum of humans across the planet.</p>
 <p><img src="https://strangelabs.io/images/blog/designing-a-space-for-technology-enthusiasts-6.jpg" alt="Strange Labs">
-You can see my notes on designing the physical space <a href="https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/">here</a>, on the Strange Labs blog</p>
-<p>Sadly, the shop was closed due to the 2020 COVID pandemic and I moved to an online only business with a narrower focus, offering bespoke custom build computers for professionals and high end gaming.</p>
-<p><a href="https://strangelabs.io">Strange Labs website</a>
-<a href="https://github.com/strange-labs-uk/">Strange Labs Github</a></p>
+You can see my notes on designing the physical space <a href="https://strangelabs.io/blog/designing-a-space-for-technology-enthusiasts/">here</a>, on the Strange Labs blog.</p>
+<p>Sadly, the shop was closed due to the 2020 COVID pandemic and I moved to an online only business with a narrower focus, offering bespoke custom build computers for professionals and high end gaming. The Meet-ups unfortunately stopped with it, but a discussion around emerging technologies continues on a signal group.</p>
+<p><a href="https://strangelabs.io">Strange Labs website</a></p>
 ]]></content>
         </item>
         
@@ -61,7 +59,7 @@ The platform was based on a NodeJS architecture running on Docker and Kubernetes
 <p>The premise was a platform which allowed users to run compile applications at scale. These applications were deployed as collections, which we called Projects.</p>
 <p>The platform was based on a NodeJS architecture running on Docker and Kubernetes.</p>
 <p>Jenca has been featured in <a href="http://www.bimplus.co.uk/news/google-ins4pires-n7ew-bim-app-platform-j7enca/" target="blank">BIM+ magazine</a> and partnered with other cutting edge AEC web applications like the <a href="http://bimserver.org/" target="blank">BIMserver</a>, <a href="http://3drepo.org/" target="blank">3D Repo</a> and <a href="http://duraark.eu/" target="blank">Duraark</a>.</p></p>
-<p>We secured funding through a business accelerator in London, however the project required a significant R&amp;D stage in order to explore how these applications would work together and the investors were not willing to engage further.</p>
+<p>We secured funding through a business accelerator in London, however the project required a significant R&amp;D stage in order to explore how these applications would work together and the investors were not willing to engage further until a solution was discovered.</p>
 ]]></content>
         </item>
         
@@ -156,28 +154,18 @@ Our clients included major construction and engineering firms VolkerFitzpatrick 
         </item>
         
         <item>
-            <title>2:1 BSc in The Built and Natural Environment</title>
-            <link>https://px3l.com/timeline/uwe/</link>
-            <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-            
-            <guid>https://px3l.com/timeline/uwe/</guid>
-            <description>The Built and Natural Environment </description>
-            <content type="html"><![CDATA[<h2 id="the-built-and-natural-environment">The Built and Natural Environment</h2>
-]]></content>
-        </item>
-        
-        <item>
             <title>Education</title>
             <link>https://px3l.com/timeline/education/</link>
             <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
             
             <guid>https://px3l.com/timeline/education/</guid>
-            <description> 10 GCSEs, A* to B, including Maths, Science, English; 4 A-Levels, A to C, in Maths and Mechanics, Physics, Art and Design and General Studies; Certificate of Higher Education in Computer Visualisation and Animation from Bournemouth University; Level 2 Accredited Trainer for McNeel Rhino3D software </description>
+            <description> 2:1 Undergraduate Bachelor of Science (BSc) in The Built and Natural Environment from University of the West of England Level 2 Accredited Trainer for McNeel Rhino3D software Certificate of Higher Education in Computer Visualisation and Animation from Bournemouth University; 4 A-Levels, A to C, in Maths and Mechanics, Physics, Art and Design and General Studies; 10 GCSEs, A* to B, including Maths, Science, English; </description>
             <content type="html"><![CDATA[<ul>
-  <li>10 GCSEs, A* to B, including Maths, Science, English;</li>
-  <li>4 A-Levels, A to C, in Maths and Mechanics, Physics, Art and Design and General Studies;</li>
-  <li>Certificate of Higher Education in Computer Visualisation and Animation from Bournemouth University;</li>
+  <li>2:1 Undergraduate Bachelor of Science (BSc) in The Built and Natural Environment from University of the West of England</li>
   <li>Level 2 Accredited Trainer for McNeel Rhino3D software</li>
+  <li>Certificate of Higher Education in Computer Visualisation and Animation from Bournemouth University;</li>
+  <li>4 A-Levels, A to C, in Maths and Mechanics, Physics, Art and Design and General Studies;</li>
+  <li>10 GCSEs, A* to B, including Maths, Science, English;</li>
 </ul>]]></content>
         </item>
         
